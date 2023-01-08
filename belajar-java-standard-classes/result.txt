@@ -1,0 +1,5 @@
+Perkenalkan nama saya otong
+saya berumur 19 tahun
+saya kuliah di UGM
+dan saya jago main lato lato
+exit():
